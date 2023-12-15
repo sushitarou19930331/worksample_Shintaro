@@ -37,7 +37,7 @@ We encourage you to style the app in a child-friendly way.
 
 ## Submission
 
-Finish your solution until 2023-12-20, 24:00h.
+Finish your solution until 2023-12-20, 23:59h.
 Submit the code to your own GitHub repository and send us the link to it. 
 The project should be runnable without any additional steps. If you need to add any additional steps, please include them in a README file. 
 Please take care that the project compiles and runs without any errors.
