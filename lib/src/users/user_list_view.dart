@@ -23,7 +23,7 @@ class UserListView extends ConsumerWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('List of users'),
+        title: const Text('Users'),
       ),
 
       // To work with lists that may contain a large number of items, it’s best
